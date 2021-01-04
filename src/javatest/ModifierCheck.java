@@ -11,6 +11,7 @@ public class ModifierCheck {
 	System.out.println("value of b : "+ppd.b);
 	//System.out.println("value of c : "+ppd.c); -> giving error as the variable is private
 	System.out.println("value of d : "+ppd.d);
+	System.out.println("value of e");
 	
 	ppd.DefaultMethod();
 	ppd.PublicMethod();
