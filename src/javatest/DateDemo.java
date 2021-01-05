@@ -14,6 +14,7 @@ public class DateDemo {
 		System.out.println(d.toString());
 		System.out.println(sdf.format(d));
 		System.out.println(sd.format(d));
+		System.out.println("I am testing");
 	}
 
 }
